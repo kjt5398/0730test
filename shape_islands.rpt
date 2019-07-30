@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : MY_TEST730.brd                                )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Tue Jul 30 16:42:48 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 4
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (53.567 37.247)  Net: GND
+	Point on shape: (79.541 38.763)  Net: GND
+	Point on shape: (45.212 38.868)  Net: GND
+	Point on shape: (55.805 36.193)  Net: GND
